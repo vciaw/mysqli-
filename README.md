@@ -55,4 +55,5 @@
 上传到服务器，浏览    
 ![4](/form/img/4.png "4")   
 数据库连接成功！    
-这是一个留言板类型的表单，数据通过index.html的action传递到insert.php，insert.php实现连接并存入数据库的功能，还有一个show.php实现从数据库读取数据并显示出来
+这是一个留言板类型的表单，数据通过index.html的action传递到insert.php，insert.php实现连接并存入数据库的功能，还有一个show.php实现从数据库读取数据并显示出来    
+此项目没有css样式美化，没有非空验证和数据交换加密处理，仅为实现功能
