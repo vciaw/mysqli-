@@ -1,4 +1,4 @@
-# mysqli-
+# mysqli
 最近用pdo比较多，怕自己忘记怎么用mysqli连接数据库所以记录一下   
 本地环境：PHP 5.2.17+Nginx+MySql 5.5.53   
 刚开始上传到服务器的时候，submit到insert.php时会显示错误500   
